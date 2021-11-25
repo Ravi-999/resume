@@ -1,0 +1,23 @@
+section{
+    border: 1px solid gray;
+    box-shadow:1em 1em .8em rgba(0, 0, 0, 0.3);
+    margin:2em;
+    padding:1em;
+    border-radius:1em;
+}
+section:hover{
+    box-shadow:1em 1em .8em rgb(44, 112, 124);
+}
+h1{
+    margin-left:1.5em;
+}
+strong{
+    display:block;
+}
+span{
+    color:gray;
+}
+a,
+h3{
+    color:blue;
+}
